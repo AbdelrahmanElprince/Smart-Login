@@ -6,4 +6,4 @@ Smart-Login is a website for registeration your username , email , password if y
 using html,css,bootstrap5 and JavaScript.
 
 ## project link
-https://abdelrahmanelprince.github.io/BookMarker/
+https://abdelrahmanelprince.github.io/Smart-Login/
